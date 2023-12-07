@@ -18,6 +18,7 @@
 
 .portfolio {
     background: url(assets/bs1.jpg);
+    background-size: cover;
     padding-top: 20%;
     padding-bottom: 20%;
     color: #fff;
