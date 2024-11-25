@@ -2,7 +2,7 @@
 
 
 .banner {
-    background: url("assets/s2.webp") no-repeat center center;
+    background: url("assets/imgs/s2.webp") no-repeat center center;
     background-size: cover;
     padding-top: 20%;
     padding-bottom: 20%;
@@ -17,7 +17,7 @@
 }
 
 .portfolio {
-    background: url(assets/bs1.jpg);
+    background: url(assets/imgs/bs1.jpg);
     background-size: cover;
     padding-top: 20%;
     padding-bottom: 20%;
@@ -25,7 +25,7 @@
 }
 
 .footer {
-    background: url(assets/s4.webp) center center;
+    background: url(assets/imgs/s4.webp) center center;
     background-size: cover;
     padding-bottom: 20px;
 }
@@ -71,3 +71,8 @@
     color: #ff5757;
     font-size: 50px;
 }
+
+/*
+table, th, td {
+    border: 1px solid rgb(255, 255, 255);
+  }
